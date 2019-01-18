@@ -15,7 +15,7 @@
 
 /* Background Image URL Must be HTTPS */
 body {
-    background: black !important;
+    background: url(https://c2.staticflickr.com/2/1814/44181021102_5ebbc82ffe_k.jpg);
 }
 
 .guilds-wrapper {
